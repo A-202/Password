@@ -1,3 +1,4 @@
+# Bu bir şifre oluşturucusudur 
 import random
 Chars = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ123456789!@#$%^&*()"
 
